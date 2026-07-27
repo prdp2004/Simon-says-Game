@@ -1,2 +1,2 @@
 # Simon-says-Game
-Its basically based on color prediction.
+Its basically based on color prediction..
